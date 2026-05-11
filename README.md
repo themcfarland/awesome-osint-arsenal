@@ -566,6 +566,7 @@ cat live_subs.txt | eyewitness --web -d screenshots/
 | **Zoom Earth** | Real-time satellite & weather | [zoom.earth](https://zoom.earth/) |
 | **KartaView** | Street-level imagery (OpenStreetCam) | [kartaview.org](https://kartaview.org/) |
 | **ShadowMap** | Shadow analysis for time estimation | [shadowmap.org](https://shadowmap.org/) |
+| **Crime Brasil** | Brazil crime + accidents open data by neighborhood (bairro-level RS; municipal MG/RJ; PRF accidents) | [crimebrasil.com.br](https://crimebrasil.com.br) |
 
 ---
 
