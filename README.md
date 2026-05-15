@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/osint_arsenal_logo.png" width="900" alt="OSINT Arsenal"/>
+<img src="assets/osint_arsenal_logo.png" width="1200" alt="OSINT Arsenal"/>
 
 <br/>
 
@@ -29,15 +29,7 @@
 ### ⚡ Get everything in one command
 
 ```bash
-git clone https://github.com/rawfilejson/awesome-osint-arsenal
-```
-
-```bash
-cd awesome-osint-arsenal
-```
-
-```bash
-sudo bash install.sh
+git clone https://github.com/rawfilejson/awesome-osint-arsenal && cd awesome-osint-arsenal && sudo bash install.sh
 ```
 
 ### 🎯 Or pick just what you need
@@ -574,6 +566,7 @@ cat live_subs.txt | eyewitness --web -d screenshots/
 | **Zoom Earth** | Real-time satellite & weather | [zoom.earth](https://zoom.earth/) |
 | **KartaView** | Street-level imagery (OpenStreetCam) | [kartaview.org](https://kartaview.org/) |
 | **ShadowMap** | Shadow analysis for time estimation | [shadowmap.org](https://shadowmap.org/) |
+| **Crime Brasil** | Brazil crime + accidents open data by neighborhood (bairro-level RS; municipal MG/RJ; PRF accidents) | [crimebrasil.com.br](https://crimebrasil.com.br) |
 
 ---
 
@@ -669,6 +662,7 @@ exiftool /path/to/images/
 | **socialscan** | Social media presence checker | `pip install socialscan` |
 | **Telepathy** | Telegram OSINT analysis | `pip install telepathy` |
 | **Twayback** | Find deleted tweets | `pip install twayback` |
+| **Xquik** | X/Twitter data API & MCP skill | [github.com](https://github.com/Xquik-dev/x-twitter-scraper) |
 | **SocialBlade** | Social media analytics | [socialblade.com](https://socialblade.com/) |
 | **Social-Searcher** | Free social media search engine | [social-searcher.com](https://www.social-searcher.com/) |
 | **Mention** | Social media monitoring | [mention.com](https://mention.com/) |
@@ -3456,6 +3450,8 @@ This repository is provided for **educational and authorized security research p
 
 *Knowledge is power — use it responsibly.*
 
+<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <br/>
 
 **⭐ Star this repo if you found it useful!**
@@ -3464,86 +3460,5 @@ This repository is provided for **educational and authorized security research p
 [![GitHub forks](https://img.shields.io/github/forks/rawfilejson/awesome-osint-arsenal?style=social)](https://github.com/rawfilejson/awesome-osint-arsenal/network/members)
 
 <br/>
-
-</div>
-
-
-
-
-new.md
-<div align="center">
-
-<img src="assets/logo.jpg" width="860" alt="OSINT Arsenal Logo"/>
-
-<br/>
-
-# 🔍 AWESOME OSINT ARSENAL
-
-### The Ultimate Open-Source Intelligence + Offensive/Defensive Security Toolkit
-
-<br/>
-
-[![Tools](https://img.shields.io/badge/Tools-658+-FF4444?style=for-the-badge&logo=target&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Categories](https://img.shields.io/badge/Categories-26-0066CC?style=for-the-badge&logo=buffer&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Version](https://img.shields.io/badge/Version-3.4-00CC66?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![Updated](https://img.shields.io/badge/Updated-2026--05--09-FF8800?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
-[![License](https://img.shields.io/badge/License-MIT-FFCC00?style=for-the-badge&logoColor=black)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/rawfilejson/awesome-osint-arsenal?style=for-the-badge&color=gold&logo=github)](https://github.com/rawfilejson/awesome-osint-arsenal/stargazers)
-
-<br/>
-
-> **658 verified tools · 26 categories · OSINT + Red Team + Blue Team + Forensics + Hardware + Training**
->
-> *The most comprehensive OSINT and offensive/defensive security toolkit on the internet — every tool with installation instructions or verified link.*
-
-<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-</div>
-
----
-
-> [!IMPORTANT]
-> ## ⚠️ Maintainer's note — please read before forking
->
-> This repository contains **658 tools across 26 categories**. That's a *lot* to keep current — links rot, repos get archived, install commands change, new tools appear weekly.
->
-> **Maintaining this alone is hard.** If nobody helps, parts of this list will go stale faster than I can fix them.
->
-> **How you can help:**
-> - ⭐ Star the repo (signal boost = more eyes = more contributors)
-> - 🐛 Open an issue when you spot a dead link or broken install command
-> - 🔁 Submit a PR — see [CONTRIBUTING.md](CONTRIBUTING.md) for the schema
-> - ☕ [Buy me a coffee](https://www.buymeacoffee.com/rawfilejson) so I can spend more weekends on this
-> - 📢 Share it — every star/fork helps justify keeping this maintained
->
-> If you spot something wrong: **don't just complain — open an issue or PR. That's how this stays useful.**
-
----
-
-> [!WARNING]
-> **DISCLAIMER:** This repository is for **educational and authorized security research only**.
-> Always obtain written permission before testing systems you do not own.
-> The authors are **not responsible** for any misuse of the tools or techniques listed here.
-> See the full [Legal Disclaimer](#legal-disclaimer) at the bottom.
-
----
-
----
-
-<div align="center">
-
-### ⭐ Star this repo if you found it useful — it really helps with motivation to keep this maintained.
-
-<br/>
-
-<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<br/>
-
-[![GitHub stars](https://img.shields.io/github/stars/rawfilejson/awesome-osint-arsenal?style=social)](https://github.com/rawfilejson/awesome-osint-arsenal/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/rawfilejson/awesome-osint-arsenal?style=social)](https://github.com/rawfilejson/awesome-osint-arsenal/network/members)
-
-*Built for the OSINT and security research community.*
-*Knowledge is power — use it responsibly.*
 
 </div>
