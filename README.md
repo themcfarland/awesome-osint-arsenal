@@ -356,6 +356,7 @@ Tools installed via `apt`/`pip`/`go install` are already on your `$PATH`.
 | **KnowEm** | Username search on 500+ sites | [knowem.com](https://knowem.com/) |
 | **Instant Username Search** | Real-time username checker | [instantusername.com](https://instantusername.com/) |
 | **Usersearch.org** | Free social network search | [usersearch.org](https://usersearch.org/) |
+| **Lullar** | Free people search by email, username, or name across 175+ sites | [com.lullar.com](https://com.lullar.com/) |
 
 <details>
 <summary><b>💻 Sherlock — Install & Usage</b></summary>
